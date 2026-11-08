@@ -1,0 +1,17 @@
+# Entorno virtual y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secretos y configuración local
+.env
+.streamlit/secrets.toml
+
+# Datos reales de clientes: nunca subir
+*.csv
+*.xlsx
+datos_reales/
+# ...salvo la tabla de escalas y los ejemplos ficticios
+!data/escalas_monotributo.csv
+!data/ejemplos/*.csv
