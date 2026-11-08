@@ -6,9 +6,9 @@ Tablero en Streamlit para estudios contables: muestra, para cada cliente monotri
 
 ## Capturas
 
-![Resumen de clientes](docs/captura-resumen.png)
-![Detalle de un cliente](docs/captura-detalle.png)
-![Proyección](docs/captura-proyeccion.png)
+![Resumen de clientes](img/captura-resumen.png)
+![Detalle de un cliente](img/captura-detalle.png)
+![Proyección](img/captura-proyeccion.png)
 
 ## Qué hace
 
